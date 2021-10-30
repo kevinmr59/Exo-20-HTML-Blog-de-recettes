@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: red;
+}
+ol {
+    border: solid black 1px;
+    border-radius: 30px;
+    width: 25%;
+    background-color: #cef3e8;
+    display: inline-block;
+}
+p{
+    border: solid black 1px;
+    border-radius: 30px;
+    width: 100%;
+    background-color: #cef3e8;
+}
+p{
+    padding: 20px;
+}
+table { border: solid black 1px;
+    border-radius: 30px;
+    width: 25%;
+    background-color: #cef3e8;
+    margin: auto ;
+
+}

@@ -1,0 +1,30 @@
+h1  {
+    color: red;
+    text-align:center;
+}
+
+p {
+    text-align:center;
+}
+
+body {
+    color: red;
+}
+
+ol {
+    text-align:center;
+    display: inline-block;
+}
+
+a {
+    text-align:center;
+    color: #0c81e0;
+}
+
+img {
+    position: absolute; right:50px; top:120px;
+}
+
+#contact {
+    text-align:center;
+}
